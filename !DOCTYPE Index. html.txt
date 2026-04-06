@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Richard Wiles</title>
+
+<style>
+body {
+    margin: 0;
+    background: #000;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    width: 320px;
+    background: #111;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+h2 {
+    margin: 10px 0;
+}
+
+.contact div {
+    margin: 10px 0;
+    background: #222;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<img src="profile.jpg">
+
+<h2>Richard Wiles</h2>
+<p>ICT Specialist</p>
+
+<div class="contact">
+
+<div>📞 +231555454689</div>
+
+<div>📧 <a href="mailto:youremail@gmail.com">youremail@gmail.com</a></div>
+
+<div>💬 <a href="https://wa.me/231555454689" target="_blank">WhatsApp Me</a></div>
+
+<!-- INSTAGRAM ADDED HERE -->
+<div>📸 Instagram: <a href="https://instagram.com/richardwiles" target="_blank">@RichardWiles</a></div>
+
+<div>🌍 <a href="https://wilesrichard807-glitch.github.io/wile--richard-card/" target="_blank">My Website</a></div>
+
+</div>
+
+</div>
+
+</body>
+</html>
