@@ -1,1 +1,1 @@
-https://github.com/wilesrichard807-glitch/Ricahrd-Wiles-Call-Card
+https://github.com/wilesrichard807-glitch/Richard-Wiles-Call-Card
